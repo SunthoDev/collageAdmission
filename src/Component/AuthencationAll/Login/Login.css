@@ -1,0 +1,196 @@
+.LoginInput{
+    border: 2px solid #D5E0D5;
+    border-radius: 14px;
+}
+.LoginInput .loginHead {
+    text-align: center;
+    color: black;
+    font-size: 26px;
+    font-family: fangsong;
+    font-weight: 600;
+}
+.LoginInput .labelName {
+    color: black;
+    font-size: 17px;
+    font-family: initial;
+    font-weight: 600;
+}
+.LoginInput input {
+    margin-top: 5px;
+    margin-bottom: 9px;
+    border: 1px solid #D5E0D5;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.LoginInput .error {
+    color: #e42a2a;
+    font-size: 16px;
+    font-family: emoji;
+    font-weight: 700;
+}
+.LoginInput .success {
+    color: green;
+    font-size: 16px;
+    font-family: emoji;
+    font-weight: 700;
+}
+.LoginInput .ForgetPass h2 {
+    color: #0e0e0e;
+    text-align: right;
+    font-family: emoji;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 2px 0;
+    transition: .2s;
+}
+.LoginInput .ForgetPass h2:hover {
+    text-decoration: underline;
+}
+
+
+
+
+.LoginInput .orLogin {
+    text-align: center;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.LoginInput .orLogin:before {
+    content: "";
+    position: absolute;
+    width: 47%;
+    height: 2px;
+    background-color: #ced0ce;
+    left: 0;
+    bottom: 9px;
+}
+.LoginInput .orLogin:after{
+
+    content: "";
+    position: absolute;
+    width: 47%;
+    height: 2px;
+    background-color: #ced0ce;
+    right: 0;
+    bottom: 9px;
+    
+}
+
+
+
+.LoginInput .socialLogin .GoogleLogin {
+    background-color: #4285F4;
+    width: 100%;
+    padding: 9px 0px;
+    border-radius: 19px;
+    position: relative;
+    transition: .4s;
+    border: 1px solid #4285F4;
+}
+
+.LoginInput .socialLogin .GoogleLogin i {
+    position: absolute;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    top: 1px;
+    line-height: 40px;
+    font-size: 22px;
+    margin-left: 2px;
+}
+.LoginInput .socialLogin .GoogleLogin span {
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    font-family: inherit;
+}
+.LoginInput .socialLogin .GoogleLogin:hover{
+    border:1px solid black;
+    background-color: transparent;
+}
+.LoginInput .socialLogin .GoogleLogin:hover span{
+    color: black;
+}
+
+.LoginInput .socialLogin .GithubLogin {
+   border:1px solid black;
+    width: 100%;
+    padding: 9px 0px;
+    border-radius: 19px;
+    position: relative;
+    transition: .4s;
+}
+
+.LoginInput .socialLogin .GithubLogin i {
+    position: absolute;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    top: 1px;
+    line-height: 40px;
+    font-size: 22px;
+    margin-left: 2px;
+}
+.LoginInput .socialLogin .GithubLogin span {
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+    font-family: inherit;
+}
+.LoginInput .socialLogin .GithubLogin:hover{
+    background-color: #4285F4;
+}
+.LoginInput .socialLogin .GithubLogin:hover span{
+    color: white;
+}
+
+
+
+.LoginInput .singUpLink{
+    text-align: center;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    position: relative;
+    overflow: hidden;
+}
+.LoginInput .singUpLink:before {
+    content: "";
+    position: absolute;
+    width: 22%;
+    height: 2px;
+    background-color: black;
+    left: 0;
+    bottom: 9px;
+}
+
+.LoginInput .singUpLink:after{
+    content: "";
+    position: absolute;
+    width: 22%;
+    height: 2px;
+    background-color: black;
+    right: 0;
+    bottom: 9px;
+    
+}
+
+.LoginInput .registerLink {
+    border: 2px solid #4d00f5;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: emoji;
+    padding: 5px 0;
+    color: #4d00f5;
+    margin-top: 20px;
+}

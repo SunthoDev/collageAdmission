@@ -1,0 +1,15 @@
+.FooterTitle {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: fangsong;
+}
+
+
+.footerSections a {
+    color: #020202;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: inherit;
+    margin-top: 2px;
+}

@@ -1,0 +1,72 @@
+[
+
+    {
+        "id":"1",
+        "collageName":"University of Dhaka",
+        "collageImage":"https://www.ruseducation.in/wp-content/uploads/2022/01/University-of-Dhaka.webp",
+        "AdDate":"07-07-2023",
+        "events":["Annual Fest", "Literary Meet", "Heath and Wellness Export"],
+        "researchHistory":"Distinguished arts and literature programs",
+        "sports":["football","Table Tennis","Cricket", "Hockey"],
+        "ranking":2,
+        "details":"The University of Dhaka is a public research university located in Shahbag, Dhaka, Bangladesh. It is the oldest university in Bangladesh and one of the most prestigious universities in Asia"
+    },
+    {
+        "id":"2",
+        "collageName":"University of Dhaka",
+        "collageImage":"https://www.ruseducation.in/wp-content/uploads/2022/01/University-of-Dhaka.webp",
+        "AdDate":"07-07-2023",
+        "events":["Annual Fest", "Literary Meet", "Heath and Wellness Export"],
+        "researchHistory":"Distinguished arts and literature programs",
+        "sports":["football","Table Tennis","Cricket", "Hockey"],
+        "ranking":2,
+        "details":"The University of Dhaka is a public research university located in Shahbag, Dhaka, Bangladesh. It is the oldest university in Bangladesh and one of the most prestigious universities in Asia"
+    },
+    {
+        "id":"3",
+        "collageName":"University of Dhaka",
+        "collageImage":"https://www.ruseducation.in/wp-content/uploads/2022/01/University-of-Dhaka.webp",
+        "AdDate":"07-07-2023",
+        "events":["Annual Fest", "Literary Meet", "Heath and Wellness Export"],
+        "researchHistory":"Distinguished arts and literature programs",
+        "sports":["football","Table Tennis","Cricket", "Hockey"],
+        "ranking":2,
+        "details":"The University of Dhaka is a public research university located in Shahbag, Dhaka, Bangladesh. It is the oldest university in Bangladesh and one of the most prestigious universities in Asia"
+    },
+    {
+        "id":"4",
+        "collageName":"University of Dhaka",
+        "collageImage":"https://www.ruseducation.in/wp-content/uploads/2022/01/University-of-Dhaka.webp",
+        "AdDate":"07-07-2023",
+        "events":["Annual Fest", "Literary Meet", "Heath and Wellness Export"],
+        "researchHistory":"Distinguished arts and literature programs",
+        "sports":["football","Table Tennis","Cricket", "Hockey"],
+        "ranking":2,
+        "details":"The University of Dhaka is a public research university located in Shahbag, Dhaka, Bangladesh. It is the oldest university in Bangladesh and one of the most prestigious universities in Asia"
+    },
+    {
+        "id":"5",
+        "collageName":"University of Dhaka",
+        "collageImage":"https://www.ruseducation.in/wp-content/uploads/2022/01/University-of-Dhaka.webp",
+        "AdDate":"07-07-2023",
+        "events":["Annual Fest", "Literary Meet", "Heath and Wellness Export"],
+        "researchHistory":"Distinguished arts and literature programs",
+        "sports":["football","Table Tennis","Cricket", "Hockey"],
+        "ranking":2,
+        "details":"The University of Dhaka is a public research university located in Shahbag, Dhaka, Bangladesh. It is the oldest university in Bangladesh and one of the most prestigious universities in Asia"
+    },
+    {
+        "id":"6",
+        "collageName":"University of Dhaka",
+        "collageImage":"https://www.ruseducation.in/wp-content/uploads/2022/01/University-of-Dhaka.webp",
+        "AdDate":"07-07-2023",
+        "events":["Annual Fest", "Literary Meet", "Heath and Wellness Export"],
+        "researchHistory":"Distinguished arts and literature programs",
+        "sports":["football","Table Tennis","Cricket", "Hockey"],
+        "ranking":2,
+        "details":"The University of Dhaka is a public research university located in Shahbag, Dhaka, Bangladesh. It is the oldest university in Bangladesh and one of the most prestigious universities in Asia"
+    }
+
+
+
+]

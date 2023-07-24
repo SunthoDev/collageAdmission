@@ -1,0 +1,12 @@
+.navLink {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: initial;
+    transition: .2s;
+    border: 1px solid transparent;
+}
+.navLink:hover{
+    border: 1px solid red;
+    border-radius: 7px;
+}
