@@ -13,60 +13,57 @@
     },
     {
         "id":"2",
-        "collageName":"University of Dhaka",
-        "collageImage":"https://www.ruseducation.in/wp-content/uploads/2022/01/University-of-Dhaka.webp",
-        "AdDate":"07-07-2023",
+        "collageName":"Independent University, Bangladesh",
+        "collageImage":"https://images.unsplash.com/photo-1676738568877-0f7758a26610?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+        "AdDate":"17-03-2023",
         "events":["Annual Fest", "Literary Meet", "Heath and Wellness Export"],
         "researchHistory":"Distinguished arts and literature programs",
         "sports":["football","Table Tennis","Cricket", "Hockey"],
-        "ranking":2,
-        "details":"The University of Dhaka is a public research university located in Shahbag, Dhaka, Bangladesh. It is the oldest university in Bangladesh and one of the most prestigious universities in Asia"
+        "ranking":4,
+        "details":"Independent University, Bangladesh or IUB is a private university in Bangladesh. It is located in Bashundhara Residential Area of Dhaka, Bangladesh. It was established in 1993 under the Private University Act, 1992. IUB has 10,000 students, 11,556 alumni, and 401 faculty members."
     },
     {
         "id":"3",
-        "collageName":"University of Dhaka",
-        "collageImage":"https://www.ruseducation.in/wp-content/uploads/2022/01/University-of-Dhaka.webp",
+        "collageName":"North South University",
+        "collageImage":"https://plus.unsplash.com/premium_photo-1682974407089-235ad9922288?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "AdDate":"07-07-2023",
         "events":["Annual Fest", "Literary Meet", "Heath and Wellness Export"],
         "researchHistory":"Distinguished arts and literature programs",
         "sports":["football","Table Tennis","Cricket", "Hockey"],
         "ranking":2,
-        "details":"The University of Dhaka is a public research university located in Shahbag, Dhaka, Bangladesh. It is the oldest university in Bangladesh and one of the most prestigious universities in Asia"
+        "details":"North South University is a private research university in Dhaka, Bangladesh. It was established in 1992 by the Foundation for Promotion of Education and Research, a charitable, non-profit, non-commercial and non-political organization"
     },
     {
         "id":"4",
-        "collageName":"University of Dhaka",
-        "collageImage":"https://www.ruseducation.in/wp-content/uploads/2022/01/University-of-Dhaka.webp",
+        "collageName":"Bangladesh University of Engineering and Technology (BUET)",
+        "collageImage":"https://images.unsplash.com/photo-1531259736756-6caccf485f81?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "AdDate":"07-07-2023",
         "events":["Annual Fest", "Literary Meet", "Heath and Wellness Export"],
         "researchHistory":"Distinguished arts and literature programs",
         "sports":["football","Table Tennis","Cricket", "Hockey"],
         "ranking":2,
-        "details":"The University of Dhaka is a public research university located in Shahbag, Dhaka, Bangladesh. It is the oldest university in Bangladesh and one of the most prestigious universities in Asia"
+        "details":"Bangladesh University of Engineering and Technology, commonly known by the acronym BUET, is a public technological research university in Dhaka, Bangladesh"
     },
     {
         "id":"5",
-        "collageName":"University of Dhaka",
-        "collageImage":"https://www.ruseducation.in/wp-content/uploads/2022/01/University-of-Dhaka.webp",
+        "collageName":"Rajshahi University",
+        "collageImage":"https://images.unsplash.com/photo-1568792923760-d70635a89fdc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
         "AdDate":"07-07-2023",
         "events":["Annual Fest", "Literary Meet", "Heath and Wellness Export"],
         "researchHistory":"Distinguished arts and literature programs",
         "sports":["football","Table Tennis","Cricket", "Hockey"],
         "ranking":2,
-        "details":"The University of Dhaka is a public research university located in Shahbag, Dhaka, Bangladesh. It is the oldest university in Bangladesh and one of the most prestigious universities in Asia"
+        "details":"The University of Rajshahi, also known as Rajshahi University or RU, is a public research university located in Motihar, Rajshahi, Bangladesh. It is the second oldest university in Bangladesh. The university's sixty departments are organized into ten faculties"
     },
     {
         "id":"6",
-        "collageName":"University of Dhaka",
-        "collageImage":"https://www.ruseducation.in/wp-content/uploads/2022/01/University-of-Dhaka.webp",
+        "collageName":"American International University - Bangladesh (AIUB)",
+        "collageImage":"https://images.unsplash.com/photo-1531674842274-9563aa15686f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80",
         "AdDate":"07-07-2023",
         "events":["Annual Fest", "Literary Meet", "Heath and Wellness Export"],
         "researchHistory":"Distinguished arts and literature programs",
         "sports":["football","Table Tennis","Cricket", "Hockey"],
         "ranking":2,
-        "details":"The University of Dhaka is a public research university located in Shahbag, Dhaka, Bangladesh. It is the oldest university in Bangladesh and one of the most prestigious universities in Asia"
+        "details":"American International University-Bangladesh, commonly known by its acronym AIUB, is an accredited and reputed private university in Dhaka, Bangladesh. The university is an independent organization with its own board of trustees."
     }
-
-
-
 ]

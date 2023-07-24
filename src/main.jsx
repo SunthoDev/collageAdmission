@@ -7,6 +7,7 @@ import Main from './Component/Outlate/Main/Main.jsx'
 import Login from './Component/AuthencationAll/Login/Login.jsx'
 import Registration from './Component/AuthencationAll/Registration/Registration.jsx'
 import AuthProvider from './Component/AuthencationAll/AuthProvider/AuthProvider.jsx'
+import AllCollage from './Component/AllCollage/AllCollage'
 
 
 
@@ -27,6 +28,10 @@ let route = createBrowserRouter([
       {
         path: "/register",
         element: <Registration></Registration>
+      },
+      {
+        path:"allCollage",
+        element:<AllCollage></AllCollage>
       }
     ]
   },

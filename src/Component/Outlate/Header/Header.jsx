@@ -2,24 +2,26 @@ import React, { useContext } from 'react';
 import "./Header.css"
 import { Link } from 'react-router-dom';
 import { AuthContext } from '../../AuthencationAll/AuthProvider/AuthProvider';
+import graguationCap from "../../../assets/gra.png"
 
 const Header = () => {
 
-    let {user,logOutUser} = useContext(AuthContext)
+    let { user, logOutUser } = useContext(AuthContext)
+    console.log(user)
 
-    
+
 
     const item = <>
         <Link to="/"><li className='navLink'><a>Home</a></li></Link>
-        <Link to="/collage"><li className='navLink'><a>Collage</a></li></Link>
+        <Link to="/allCollage"><li className='navLink'><a>Collage</a></li></Link>
         <Link to="/admission"><li className='navLink'><a>Admission</a></li></Link>
         <Link to="/myCollage"><li className='navLink'><a>My Collage</a></li></Link>
     </>
 
-    let handleLogout=()=>{
+    let handleLogout = () => {
         logOutUser()
-        .then(result=>{})
-        .catch(error=>{})
+            .then(result => { })
+            .catch(error => { })
 
     }
 
@@ -43,7 +45,11 @@ const Header = () => {
 
 
                     </div>
-                    <a className="btn btn-ghost normal-case text-xl">Varsity Admission</a>
+                    <div className="btn btn-ghost normal-case text-xl">
+                        <img className='w-[50px] h-[50px]' src={graguationCap} alt="" />
+
+                        Varsity Admission
+                    </div>
                 </div>
                 <div className="navbar-center hidden lg:flex">
 
@@ -55,11 +61,17 @@ const Header = () => {
                 </div>
                 <div className="navbar-end">
 
+                    {
+                      user &&  
                     <label tabIndex={0} className="btn btn-ghost btn-circle avatar">
                         <div className="w-10 rounded-full">
-                            <img src="/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+                            <img src={user?.photoURL} />
                         </div>
                     </label>
+                    }
+
+
+
                     {
                         user && user.email ?
                             <button onClick={handleLogout} className="btn">LogOut</button> :
